@@ -1,0 +1,4 @@
+swiftoperations
+===============
+
+Automated swift operations.
